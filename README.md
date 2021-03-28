@@ -16,6 +16,6 @@
 
 * [Github-Explorer](https://evan-github-explorer.netlify.app/);
 
-* [Linkedin-UI-Clone](https://app.netlify.com/sites/evan-linkedin-ui-clone);
+* [Linkedin-UI-Clone](https://evan-linkedin-ui-clone.netlify.app/);
 
 * [Twitter-UI-Clone](https://evan-twitter-ui-clone.netlify.app/);
